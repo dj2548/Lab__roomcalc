@@ -1,0 +1,15 @@
+C:\Users\Somber\source\repos\Buffet\newbuffet\new PBJ\test for  school\test for  school\bin\Debug\net6.0\test for  school.exe
+C:\Users\Somber\source\repos\Buffet\newbuffet\new PBJ\test for  school\test for  school\bin\Debug\net6.0\test for  school.deps.json
+C:\Users\Somber\source\repos\Buffet\newbuffet\new PBJ\test for  school\test for  school\bin\Debug\net6.0\test for  school.runtimeconfig.json
+C:\Users\Somber\source\repos\Buffet\newbuffet\new PBJ\test for  school\test for  school\bin\Debug\net6.0\test for  school.dll
+C:\Users\Somber\source\repos\Buffet\newbuffet\new PBJ\test for  school\test for  school\bin\Debug\net6.0\test for  school.pdb
+C:\Users\Somber\source\repos\Buffet\newbuffet\new PBJ\test for  school\test for  school\obj\Debug\net6.0\test for  school.csproj.AssemblyReference.cache
+C:\Users\Somber\source\repos\Buffet\newbuffet\new PBJ\test for  school\test for  school\obj\Debug\net6.0\test for  school.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Somber\source\repos\Buffet\newbuffet\new PBJ\test for  school\test for  school\obj\Debug\net6.0\test for  school.AssemblyInfoInputs.cache
+C:\Users\Somber\source\repos\Buffet\newbuffet\new PBJ\test for  school\test for  school\obj\Debug\net6.0\test for  school.AssemblyInfo.cs
+C:\Users\Somber\source\repos\Buffet\newbuffet\new PBJ\test for  school\test for  school\obj\Debug\net6.0\test for  school.csproj.CoreCompileInputs.cache
+C:\Users\Somber\source\repos\Buffet\newbuffet\new PBJ\test for  school\test for  school\obj\Debug\net6.0\test for  school.dll
+C:\Users\Somber\source\repos\Buffet\newbuffet\new PBJ\test for  school\test for  school\obj\Debug\net6.0\refint\test for  school.dll
+C:\Users\Somber\source\repos\Buffet\newbuffet\new PBJ\test for  school\test for  school\obj\Debug\net6.0\test for  school.pdb
+C:\Users\Somber\source\repos\Buffet\newbuffet\new PBJ\test for  school\test for  school\obj\Debug\net6.0\test for  school.genruntimeconfig.cache
+C:\Users\Somber\source\repos\Buffet\newbuffet\new PBJ\test for  school\test for  school\obj\Debug\net6.0\ref\test for  school.dll
